@@ -1,0 +1,9 @@
+
+body > canvas{
+	background: linear-gradient(to bottom, #3c4463fc, #01030e);
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
